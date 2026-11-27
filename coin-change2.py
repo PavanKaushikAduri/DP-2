@@ -1,7 +1,7 @@
 #This is coin change II problem
 
 #Time complexity : O(m*n)
-#space complexity : O(m * n)
+#space complexity : O(n)
 
 class Solution:
     def change(self, amount: int, coins: list[int]) -> int:
